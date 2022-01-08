@@ -36,9 +36,27 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 </h2>
 
+<h1> Currently working with </h1>
+<a href=""><img src="icons/git.png" /></a>
+<a href=""><img src="icons/github.png" /></a>
+<a href=""><img src="icons/javascript.png" /></a>
+<a href=""><img src="icons/vscode.png" /></a>
+<a href=""><img src="icons/angular.png" /></a>
+<a href=""><img src="icons/bootstrap.png" /></a>
+<a href=""><img src="icons/css-3.png" /></a>
+<a href=""><img src="icons/html-5.png" /></a>
 
+<h1> Learning </h1>
+<a href=""><img src="icons/typescript.png" /></a>
+<a href=""><img src="icons/react.png" /></a>
 
+<h1> Previously worked with </h1>
+<a href=""><img src="icons/android.png" /></a>
+<a href=""><img src="icons/mysql.png" /></a>
+<a href=""><img src="icons/elementor.png" /></a>
+<a href=""><img src="icons/wordpress.png" /></a>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheygaby16&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheygaby16&layout=compact&theme=tokyonight)](https://github.com/cheygaby16/github-readme-stats)
+<h2>💻 Some stats 💻</h2> 
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cheygaby16&theme=tokyonight&show_icons=true" />
+</p>
